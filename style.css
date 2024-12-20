@@ -1,0 +1,141 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    padding: 10px 0;
+    z-index: 1000;
+}
+
+.nav-item a{
+    list-style: none;
+    text-decoration: none;
+}
+
+#navbarTogglerDemo01 :hover{
+    color: red;
+}
+
+.container-fluid a{
+    color: blue;
+}
+
+.navbar-brand{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+}
+
+.navbar-brand span{
+    color: red;
+}
+
+.pic{
+    background-image: url(Thiebou.JPG);
+    background-size: cover;
+    padding-bottom: 20px;
+    padding-top: 23px;
+}
+
+.pic h4{
+    text-align: left;
+    
+}
+.pic h4 a{
+    margin: 20px;
+}
+
+.pic h1 span{
+    color: red;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.pic h1{
+    color: blue;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.text-tertiaire{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.reservation-btn {
+    background-color: #ff5733;
+    color: red;
+    font-weight: bold;
+    }
+
+.reservation-btn:hover {
+    background-color: #c44123;
+    color: blue;
+    }
+
+
+
+body {
+        font-family: Arial, sans-serif;
+    }
+
+.container{
+    padding-top: 23px;
+
+}
+
+.menu-section {
+        margin: 50px 0;
+    }
+
+.menu-card {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 15px;
+        background-color: #f9f9f9;
+        text-align: center;
+        width: 23%; 
+    }
+
+.menu-title {
+        font-weight: bold;
+        margin: 10px 0;
+        font-family: "Lobster", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+.menu-price {
+        color: #6c757d;
+        margin-bottom: 10px;
+    }
+
+.menu-image {
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+        border-radius: 8px;
+        margin-bottom: 10px;
+    }
+
+.menu-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: space-between;
+    }
+
+
+.text-center{
+        font-family: "Lobster", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
