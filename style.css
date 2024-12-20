@@ -1,4 +1,3 @@
-
 .navbar{
     position: fixed;
     top: 0;
@@ -202,4 +201,8 @@ h2{
 .reservation-btn:hover {
     background-color: #c44123;
     color: blue;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 03c5470 (message)
