@@ -33,6 +33,7 @@
 }
 
 
+
 .text-tertiaire{
     font-family: "Lobster", sans-serif;
     font-weight: 400;
@@ -201,5 +202,4 @@ h2{
 .reservation-btn:hover {
     background-color: #c44123;
     color: blue;
-    }
-
+}
