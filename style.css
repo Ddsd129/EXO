@@ -32,53 +32,6 @@
     color: red;
 }
 
-.pic{
-    background-image: url(Thiebou.JPG);
-    background-size: cover;
-    padding-bottom: 20px;
-    padding-top: 23px;
-}
-
-.pic h4{
-    text-align: left;
-    
-}
-.pic h4 a{
-    margin: 20px;
-}
-
-.pic h1 span{
-    color: red;
-    font-family: "Lobster", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-}
-
-.pic h1{
-    color: blue;
-    font-family: "Lobster", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-}
-
-.text-tertiaire{
-    font-family: "Lobster", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-}
-
-.reservation-btn {
-    background-color: #ff5733;
-    color: red;
-    font-weight: bold;
-    }
-
-.reservation-btn:hover {
-    background-color: #c44123;
-    color: blue;
-    }
-
-
 
 body {
         font-family: Arial, sans-serif;
@@ -226,4 +179,3 @@ h2{
     background-color: #c44123;
     color: blue;
     }
->>>>>>> 7f2fb3e937c4957548024ffe50c5549afb5f27e6
